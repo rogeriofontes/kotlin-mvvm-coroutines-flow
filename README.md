@@ -1,4 +1,3 @@
-# Workshop de NodeRed
+# Workshop de Arquitetura kotlin
 
-Um Workshop para apresentação do funcionamento básico do NodeRed. <br /><br /> Para instalação via docker: [Exemplos](https://github.com/rogeriofontes/node-red-apis-workshop-docker).
 # kotlin-mvvm-coroutines-flow
